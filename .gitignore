@@ -1,9 +1,7 @@
-.DS_Store
 node_modules
 yarn.lock
 /dist
 /src/.umi
-
 
 # local env files
 .env.local
@@ -24,3 +22,4 @@ pnpm-debug.log*
 *.sln
 *.sw?
 dist.zip
+node_modules
