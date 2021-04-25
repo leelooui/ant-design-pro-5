@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/floating-landmasses",
+  "main": "167c4fd9f706be29@48.js",
+  "version": "48.0.0",
+  "homepage": "https://observablehq.com/@mbostock/floating-landmasses",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
